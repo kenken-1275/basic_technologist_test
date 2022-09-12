@@ -126,4 +126,3 @@ Windowsでは、Windows Power Shellというシェルが、MacOSやLinuxなどUn
 #### CASE(Computer Aided Software Engineering)ツール
 コンピュータを活用して、ソフトウェアの開発を効率よく行えるようにするツール群をCASEツールと呼ぶ。<br>
 言語プロセッサやエラー検出、テストに使うツールを統合して、互いに連携し合いながら動作するように構成した「統合開発環境」（例えばオープンソースのエクリプスがある）もCASEツールの１つと言える。
-
